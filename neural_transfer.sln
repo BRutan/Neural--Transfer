@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neural_transfer", "neural_transfer\neural_transfer.pyproj", "{B7CA8358-4CD4-47B4-B6E3-68A81AC45C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CA8358-4CD4-47B4-B6E3-68A81AC45C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CA8358-4CD4-47B4-B6E3-68A81AC45C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF0DC63-3353-41E3-9071-3A26A7C9B87E}
+	EndGlobalSection
+EndGlobal
